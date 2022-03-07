@@ -1,0 +1,45 @@
+{
+    "name": "sunny-forest",
+    "displayName": "sunny-forest",
+    "description": "Sunny Forest theme for VS Code",
+    "version": "1.0.0",
+    "publisher": "WolfRor",
+    "author":"Dominik Krzywański <support@wolfror.iwhy.me> (http://wolfror.iwhy.me)",
+    "license": "MIT",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sunny Forest",
+                "uiTheme": "vs",
+                "path": "./themes/Sunny Forest-color-theme.json"
+            }
+        ]
+    },
+
+    "bugs": {
+        "url": "https://github.com/WolfRorDev/sunny-forest/issues"
+    },
+    "homepage": "https://github.com/WolfRorDev/sunny-forest/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/WolfRorDev/sunny-forest.git"
+    },
+    "keywords": [
+        "Vscode",
+        "Theme",
+        "Dark",
+        "Forest"
+    ],
+    "__metadata": {
+        "id": "",
+        "publisherDisplayName": "WolfRor",
+        "publisherId": ""
+    }
+}
